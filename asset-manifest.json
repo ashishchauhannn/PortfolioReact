@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PortfolioReact/static/css/main.967d82b9.css",
+    "main.js": "/PortfolioReact/static/js/main.3af20fb5.js",
+    "static/js/770.b477def6.chunk.js": "/PortfolioReact/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/PortfolioReact/static/js/453.1407b060.chunk.js",
+    "static/media/leaf.png": "/PortfolioReact/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/home-bg.jpg": "/PortfolioReact/static/media/home-bg.15c315a5418d8680e326.jpg",
+    "static/media/emotion.png": "/PortfolioReact/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/PortfolioReact/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/Untitled.pdf": "/PortfolioReact/static/media/Untitled.6808974dcc513e028519.pdf",
+    "static/media/codeEditor.png": "/PortfolioReact/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/PortfolioReact/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/PortfolioReact/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/PortfolioReact/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/PortfolioReact/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/pre.svg": "/PortfolioReact/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/PortfolioReact/index.html",
+    "main.967d82b9.css.map": "/PortfolioReact/static/css/main.967d82b9.css.map",
+    "main.3af20fb5.js.map": "/PortfolioReact/static/js/main.3af20fb5.js.map",
+    "770.b477def6.chunk.js.map": "/PortfolioReact/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/PortfolioReact/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.967d82b9.css",
+    "static/js/main.3af20fb5.js"
+  ]
+}
